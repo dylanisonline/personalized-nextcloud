@@ -1,1 +1,1 @@
-# personalized-nextcloud
+# Creating a private cloud with NextCloud
